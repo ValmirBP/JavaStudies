@@ -4,22 +4,24 @@ import java.util.Scanner;
 
 public class Exercise07 {
     /*
-
+    Faça um programa que leia 5 números e informe o maior número.
      */
     public static void main(String[] args) {
-int M;
-int N;
-boolean verdadeiro;
 
-Scanner s = new Scanner(System.in);
+        Scanner s = new Scanner(System.in);
 
-        System.out.println("what is the first number ");
-        M = s.nextInt();
-        System.out.println("what is the second number ");
-        N = s.nextInt();
+        int num;
+        int bigger = Integer.MIN_VALUE;
 
-        
+        for (int i = 0; i < 5; i++) {
 
+            System.out.println("what is the first number ");
+            num = s.nextInt();
 
+            if (num > bigger) {
+                bigger=num;
+            }
+            System.out.println("maior eh \t" + bigger);
+        }
     }
 }
