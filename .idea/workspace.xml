@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed86eb93-45ae-4645-9ab5-58b50625108b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/bin/com/valmir/cursojava/exercicios16E17/Exercise31.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/valmir/cursojava/exercicios16E17/Exercise31Pt2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/valmir/cursojava/exercicios16E17/Exercise32.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/valmir/cursojava/exercicios16E17/Exercise34.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/valmir/cursojava/exercicios16E17/Exercise31Pt2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/valmir/cursojava/exercicios16E17/Exercise32.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/valmir/cursojava/exercicios16E17/Exercise33.java" afterDir="false" />
@@ -196,6 +200,11 @@
           <url>file://$PROJECT_DIR$/src/com/valmir/cursojava/exercicios16E17/Exercise26.java</url>
           <line>25</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/valmir/cursojava/exercicios16E17/Exercise36.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
