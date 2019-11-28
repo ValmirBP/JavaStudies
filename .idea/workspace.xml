@@ -2,18 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed86eb93-45ae-4645-9ab5-58b50625108b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bin/com/valmir/cursojava/exercicios16E17/Exercise31.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/valmir/cursojava/exercicios16E17/Exercise31Pt2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/valmir/cursojava/exercicios16E17/Exercise32.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/valmir/cursojava/exercicios16E17/Exercise34.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/valmir/cursojava/exercicios16E17/Exercise31Pt2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/valmir/cursojava/exercicios16E17/Exercise32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/valmir/cursojava/exercicios16E17/Exercise33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/valmir/cursojava/exercicios16E17/Exercise34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/valmir/cursojava/exercicios16E17/Exercise35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/valmir/cursojava/exercicios16E17/Exercise36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/valmir/cursojava/aula18/BreackEContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/valmir/cursojava/aula18/BreackLabel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/valmir/cursojava/aula18/Continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/valmir/cursojava/aula19/Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/valmir/cursojava/exercicios18E19/Exercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/valmir/cursojava/exercicios18E19/Exercise10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/valmir/cursojava/exercicios18E19/Exercise11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/valmir/cursojava/exercicios18E19/Exercise2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/valmir/cursojava/exercicios18E19/Exercise3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/valmir/cursojava/exercicios18E19/Exercise4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/valmir/cursojava/exercicios18E19/Exercise5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/valmir/cursojava/exercicios18E19/Exercise6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/valmir/cursojava/exercicios18E19/Exercise7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/valmir/cursojava/exercicios18E19/Exercise8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/valmir/cursojava/exercicios18E19/Exercise9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/valmir/cursojava/exercicios16E17/Exercise31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/valmir/cursojava/exercicios16E17/Exercise31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/valmir/cursojava/exercicios16E17/Exercise34.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/valmir/cursojava/exercicios16E17/Exercise34.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +53,11 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.valmir.cursojava.exercicios18E19" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -60,7 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exercise33">
+  <component name="RunManager" selected="Application.Exercise7">
     <configuration name="Exercise14" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.valmir.cursojava.exercicios16E17.Exercise14" />
       <module name="Aula10CursoJava" />
@@ -87,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.valmir.cursojava.exercicios16E17.Exercise28" />
+    <configuration name="Exercise3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.valmir.cursojava.exercicios18E19.Exercise3" />
       <module name="Aula10CursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.valmir.cursojava.exercicios16E17.*" />
+          <option name="PATTERN" value="com.valmir.cursojava.exercicios18E19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.valmir.cursojava.exercicios16E17.Exercise31" />
+    <configuration name="Exercise4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.valmir.cursojava.exercicios18E19.Exercise4" />
       <module name="Aula10CursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.valmir.cursojava.exercicios16E17.*" />
+          <option name="PATTERN" value="com.valmir.cursojava.exercicios18E19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise31Pt2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.valmir.cursojava.exercicios16E17.Exercise31Pt2" />
+    <configuration name="Exercise5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.valmir.cursojava.exercicios18E19.Exercise5" />
       <module name="Aula10CursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.valmir.cursojava.exercicios16E17.*" />
+          <option name="PATTERN" value="com.valmir.cursojava.exercicios18E19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.valmir.cursojava.exercicios16E17.Exercise32" />
+    <configuration name="Exercise6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.valmir.cursojava.exercicios18E19.Exercise6" />
       <module name="Aula10CursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.valmir.cursojava.exercicios16E17.*" />
+          <option name="PATTERN" value="com.valmir.cursojava.exercicios18E19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.valmir.cursojava.exercicios16E17.Exercise33" />
+    <configuration name="Exercise7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.valmir.cursojava.exercicios18E19.Exercise7" />
       <module name="Aula10CursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.valmir.cursojava.exercicios16E17.*" />
+          <option name="PATTERN" value="com.valmir.cursojava.exercicios18E19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise33" />
-        <item itemvalue="Application.Exercise32" />
-        <item itemvalue="Application.Exercise28" />
-        <item itemvalue="Application.Exercise31Pt2" />
-        <item itemvalue="Application.Exercise31" />
+        <item itemvalue="Application.Exercise7" />
+        <item itemvalue="Application.Exercise6" />
+        <item itemvalue="Application.Exercise5" />
+        <item itemvalue="Application.Exercise4" />
+        <item itemvalue="Application.Exercise3" />
       </list>
     </recent_temporary>
   </component>
