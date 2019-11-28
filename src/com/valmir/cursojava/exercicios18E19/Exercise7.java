@@ -36,6 +36,7 @@ C[i] = A[i] – B[i].
             vetC[i] = vetA[i] - vetB[i];
         }
 
+        System.out.println();
         System.out.print(" Vetor A = ");
 
         for (int i = 0; i < vetA.length; i++) {
@@ -43,6 +44,7 @@ C[i] = A[i] – B[i].
             System.out.print(vetA[i] + " ");
         }
 
+        System.out.println();
         System.out.print(" Vetor B = ");
 
         for (int i = 0; i < vetB.length; i++) {
@@ -50,6 +52,7 @@ C[i] = A[i] – B[i].
             System.out.print(vetB[i] + " ");
         }
 
+        System.out.println();
         System.out.print(" Vetor C = ");
 
         for (int i = 0; i < vetC.length; i++) {
